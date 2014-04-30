@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  runtime: 1
+  popularity: 9.99
+  poster_path: MyString
+
+two:
+  title: MyString
+  runtime: 1
+  popularity: 9.99
+  poster_path: MyString
